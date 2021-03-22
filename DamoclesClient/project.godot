@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Damocles"
+config/name="DamoclesClient"
 run/main_scene="res://Client.tscn"
 
 [display]
